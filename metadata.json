@@ -1,0 +1,6 @@
+{
+  "name": "سامانه مدیریت کارگران و کارکرد کارگاه",
+  "description": "نرم‌افزار جامع مدیریت کارگران، ثبت کارکرد روزانه و ماهانه، محاسبه حقوق و دستمزد، ثبت پرداخت‌ها، کارتابل اختصاصی و خروجی اکسل راست‌چین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
